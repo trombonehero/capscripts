@@ -1,0 +1,5 @@
+A handful of scripts which are useful to the Capsicum hacker.
+
+listcaps.sh - finds all CAP_ rights which kernel code actually wants to use
+renumber-caps.py - renumbers caps in sys/capability.h in ascending order
+
